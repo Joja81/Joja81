@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Joja81
 - 🏫 I'm currently studying at UNSW doing Software Engineering
+- :hammer_and_wrench: Java, Dart/Flutter, Python3
 
 This is just a collection of personal projects and other activities.
 
