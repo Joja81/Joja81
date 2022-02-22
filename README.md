@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joja81
+- 👋 Hi, I’m Joshua Smee
 - 🏫 I'm currently studying at UNSW doing Software Engineering
 - :hammer_and_wrench: Java, Dart/Flutter, Python3
 
