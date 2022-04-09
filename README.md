@@ -2,7 +2,7 @@
 - 🏫 I'm currently studying at UNSW doing Software Engineering
 - :hammer_and_wrench: Dart/Flutter, Python3, C, Java, JavaScript
 
-This is just a collection of personal projects and other activities.
+Collection of personal projects and other activities.
 
 <!---
 Joja81/Joja81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
