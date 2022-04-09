@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Smee
 - 🏫 I'm currently studying at UNSW doing Software Engineering
-- :hammer_and_wrench: Java, Dart/Flutter, Python3
+- :hammer_and_wrench: Dart/Flutter, Python3, C, Java, JavaScript
 
 This is just a collection of personal projects and other activities.
 
